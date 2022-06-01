@@ -35,10 +35,6 @@ p strong {
   color: #fff;
 }
 
-li>li {
-  color: green;
-}
-
 p {
   font-family: 'Fira Sans', sans-serif;
   line-height: 1.5;

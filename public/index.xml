@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jensmaes.be</title>
+    <link>https://jensmaes.be/</link>
+    <description>Recent content on jensmaes.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
+    <copyright>© Jens Maes</copyright><atom:link href="https://jensmaes.be/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jensmaes.be/about/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jensmaes.be/about/</guid>
+      <description>Hi, my name is Jens. I&amp;rsquo;m born on the 4th of July and currently live in Mechelen, Belgium 🇧🇪. I&amp;rsquo;m a junior systems- and network administrator with a recently developed passion for PowerShell as you can read on this article. I&amp;rsquo;m currently employed as IT Officer at Mobix Engema.
+Want to reach me? Shoot me a message via me@jensmaes.be or connect with me on LinkedIn
+Skillset My skills are as followed but I&amp;rsquo;m never afraid of a challenge to learn something new!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jensmaes.be/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jensmaes.be/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

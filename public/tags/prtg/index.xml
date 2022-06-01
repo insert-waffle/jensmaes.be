@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRTG on jensmaes.be</title>
+    <link>ditisjens.be/tags/prtg/</link>
+    <description>Recent content in PRTG on jensmaes.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
+    <copyright>© Jens Maes</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 13:07:34 +0000</lastBuildDate><atom:link href="ditisjens.be/tags/prtg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated reporting with PRTG and 4me</title>
+      <link>ditisjens.be/posts/automated-reporting-with-prtg-and-4me/</link>
+      <pubDate>Wed, 01 Jun 2022 13:07:34 +0000</pubDate>
+      
+      <guid>ditisjens.be/posts/automated-reporting-with-prtg-and-4me/</guid>
+      <description>For my bachelors thesis I was tasked with researching and deploying a monitoring application for the company Mobix situated in Mechelen, Belgium. During this project I was challenged both technically and personally. Eventually the monitoring tool PRTG by Paessler was chosen out of 5 different tested tools.
+First of all: research Before I chose PRTG</description>
+    </item>
+    
+  </channel>
+</rss>

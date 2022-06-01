@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jensmaes.be/"
 languageCode = "be-nl"
 title = "jensmaes.be"
 theme="archie"
@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="toggle"
 	useCDN=false
-	subtitle = "A PowerShell-enthousiastic network- and system-administrator living in Mechelen, Belgium. My skills include: Cisco R&S, Ubiquiti Networks"
+	subtitle = "A PowerShell-enthousiastic network- and system-administrator living in Mechelen, Belgium."
 
 [[params.social]]
 name = "GitHub"
@@ -22,13 +22,18 @@ name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/ikbenjensniet"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/jensmaes7/"
+
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 

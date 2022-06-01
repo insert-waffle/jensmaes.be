@@ -1,28 +1,46 @@
 +++
-title = "About"
+title = "Allow me to introduce myself"
 description = "Who's Jens? And what is he doing here?"
 date = "2022-06-01"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about","about-jens","contact"]
+author = "Jens Maes"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi, my name is Jens. I'm born on the 4th of July and currently live in Mechelen, Belgium 🇧🇪. I'm a junior systems- and network administrator with a recently developed passion for PowerShell. I'm currently employed as IT Officer at [Mobix Engema](https://mobix.be/). 
 
-Hugo makes use of a variety of open source projects including:
+Want to reach me? Shoot me a message via [me@jensmaes.be](mailto:me@jensmaes.be) or connect with me on [LinkedIn](https://www.linkedin.com/in/jensmaes7/)
+## Skillset
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My skills are as followed but I'm never afraid of a challenge to learn something new!  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+* **Networking** | Cisco routing and switching + wireless & Ubiquiti UniFi
+* **Linux** | Debian-based distro's, OpenSUSE & Kali Linux
+* **Amazon Web Services** | ✔️ SAA-C02 certified 
+* **Virtualization** | VMWare ESXi & Microsoft Hyper-V
+* **Active Directory** | On-premises AD controllers & Azure AD
+* **Microsoft Office 365** | SharePoint, Teams, Exchange Online,...
+* **Scripting** | PowerShell, bash & JavaScript
+* **Endpoint Management** | Microsoft Intune & SCCM
+* **Extras** | Terraform, Ansible, Mac OS
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Education
+* **Bachelors degree - Electronics-ICT : Systems, Services & Security** 
+  * Study info:
+  * Duration: 2020 - 2022
+  * School: Thomas More Hogeschool
+* **Graduate degree - Computer Science : Network administration**
+  * Study info:
+  * Duration: 2018 - 2020
+  * School: Thomas More Hogeschool
+* **High school - Printmedia**
+  * Study info:
+  * Duration: 2012 - 2018
+  * School: TSM Mechelen
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Professional experience
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* **Self employed at ditisjens.be** | since february 2020 to date
+* **IT officer at Mobix Engema NV** | since july 2022 to date
 
 
 
