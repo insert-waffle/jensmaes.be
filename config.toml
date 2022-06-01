@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "be-nl"
+title = "jensmaes.be"
+theme="archie"
+copyright = "© Jens Maes"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	mode="toggle"
+	useCDN=false
+	subtitle = "A PowerShell-enthousiastic network- and system-administrator living in Mechelen, Belgium. My skills include: Cisco R&S, Ubiquiti Networks"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/insert-waffle"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/ikbenjensniet"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
