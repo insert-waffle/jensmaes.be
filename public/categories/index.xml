@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jensmaes.be</title>
-    <link>https://jensmaes.be/categories/</link>
+    <link>http://jensmaes.be/categories/</link>
     <description>Recent content in Categories on jensmaes.be</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
-    <copyright>© Jens Maes</copyright><atom:link href="https://jensmaes.be/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Jens Maes</copyright><atom:link href="http://jensmaes.be/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
