@@ -5,25 +5,7 @@
     <loc>https://jensmaes.be/</loc>
     <lastmod>2022-06-01T13:07:34+00:00</lastmod>
   </url><url>
-    <loc>https://jensmaes.be/tags/4me/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
-    <loc>https://jensmaes.be/tags/api/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
-    <loc>https://jensmaes.be/posts/automated-reporting-with-prtg-and-4me/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
     <loc>https://jensmaes.be/posts/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
-    <loc>https://jensmaes.be/tags/powershell/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
-    <loc>https://jensmaes.be/tags/prtg/</loc>
-    <lastmod>2022-06-01T13:07:34+00:00</lastmod>
-  </url><url>
-    <loc>https://jensmaes.be/tags/</loc>
     <lastmod>2022-06-01T13:07:34+00:00</lastmod>
   </url><url>
     <loc>https://jensmaes.be/posts/welcome-to-the-blog/</loc>
@@ -36,5 +18,7 @@
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jensmaes.be/categories/</loc>
+  </url><url>
+    <loc>https://jensmaes.be/tags/</loc>
   </url>
 </urlset>
