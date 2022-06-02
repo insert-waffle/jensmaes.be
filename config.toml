@@ -1,6 +1,6 @@
 baseURL = "https://jensmaes.be/"
 languageCode = "be-nl"
-title = "jensmaes.be"
+title = "Jens Maes"
 theme="archie"
 copyright = "© Jens Maes"
 pygmentsstyle = "monokai"
@@ -11,6 +11,7 @@ pygmentscodefencesguesssyntax = true
 	mode="toggle"
 	useCDN=false
 	subtitle = "A PowerShell-enthousiastic network- and system-administrator living in Mechelen, Belgium."
+	favicon = "img/favicon.ico"
 
 [[params.social]]
 name = "GitHub"
