@@ -1,4 +1,4 @@
-baseURL = "http://jensmaes.be/"
+baseURL = "https://jensmaes.be/"
 languageCode = "be-nl"
 title = "jensmaes.be"
 theme="archie"

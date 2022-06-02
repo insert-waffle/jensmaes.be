@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jensmaes.be/</loc>
+    <loc>https://jensmaes.be/</loc>
     <lastmod>2022-06-01T13:07:34+00:00</lastmod>
   </url><url>
-    <loc>http://jensmaes.be/posts/</loc>
+    <loc>https://jensmaes.be/posts/</loc>
     <lastmod>2022-06-01T13:07:34+00:00</lastmod>
   </url><url>
-    <loc>http://jensmaes.be/posts/welcome-to-the-blog/</loc>
+    <loc>https://jensmaes.be/posts/welcome-to-the-blog/</loc>
     <lastmod>2022-06-01T13:07:34+00:00</lastmod>
   </url><url>
-    <loc>http://jensmaes.be/about/</loc>
+    <loc>https://jensmaes.be/about/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jensmaes.be/archives/</loc>
+    <loc>https://jensmaes.be/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jensmaes.be/categories/</loc>
+    <loc>https://jensmaes.be/categories/</loc>
   </url><url>
-    <loc>http://jensmaes.be/tags/</loc>
+    <loc>https://jensmaes.be/tags/</loc>
   </url>
 </urlset>

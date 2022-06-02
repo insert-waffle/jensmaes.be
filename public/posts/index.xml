@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on jensmaes.be</title>
-    <link>http://jensmaes.be/posts/</link>
+    <link>https://jensmaes.be/posts/</link>
     <description>Recent content in Posts on jensmaes.be</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>be-nl</language>
     <copyright>© Jens Maes</copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 13:07:34 +0000</lastBuildDate><atom:link href="http://jensmaes.be/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 13:07:34 +0000</lastBuildDate><atom:link href="https://jensmaes.be/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the blog!</title>
-      <link>http://jensmaes.be/posts/welcome-to-the-blog/</link>
+      <link>https://jensmaes.be/posts/welcome-to-the-blog/</link>
       <pubDate>Wed, 01 Jun 2022 13:07:34 +0000</pubDate>
       
-      <guid>http://jensmaes.be/posts/welcome-to-the-blog/</guid>
+      <guid>https://jensmaes.be/posts/welcome-to-the-blog/</guid>
       <description>Content is coming soon! Take this dog gif while you&amp;rsquo;re waiting.</description>
     </item>
     
